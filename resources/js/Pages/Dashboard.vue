@@ -48,7 +48,7 @@
                     <i class="fas fa-user-circle"></i>
                   </div>
                 </div>
-                <h2>Admin</h2>
+                <h2>Admins</h2>
                 <p>studentaffairs@ssct.edu.ph</p>
                 <Link href="/logout" method="post" as="button" class="sign-out">Sign out</Link>
               </div>
